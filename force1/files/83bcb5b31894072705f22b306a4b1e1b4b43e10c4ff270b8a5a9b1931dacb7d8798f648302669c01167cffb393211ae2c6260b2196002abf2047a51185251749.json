@@ -1,0 +1,663 @@
+{
+    "nodes":[
+        {"id":"建筑设计2","group":2},
+        {"id":"建筑设计1","group":2},
+        {"id":"城市经济概论","group":3},
+        {"id":"建筑设备","group":4},
+        {"id":"基础统计学","group":2},
+        {"id":"外国建筑史2","group":3},
+        {"id":"当代建筑设计分析2","group":3},
+        {"id":"中外城市","group":1},
+        {"id":"当代建筑设计分析1","group":2},
+        {"id":"无障碍设计原理","group":3},
+        {"id":"艺术史与设计史","group":4},
+        {"id":"建筑设计原理","group":7},
+        {"id":"传统建筑营造技术","group":2},
+        {"id":"古建筑测绘（建）","group":6},
+        {"id":"社会生产实践","group":10},
+        {"id":"毕设设计实习（建）","group":9},
+        {"id":"毕业设计（论文）（建）","group":10},
+        {"id":"建筑设计7","group":10},
+        {"id":"外国建筑史1","group":1},
+        {"id":"通识课","group":4},
+        {"id":"建筑学概论（翻转）","group":1},
+        {"id":"建筑图形学","group":5},
+        {"id":"建筑设计基础1","group":1},
+        {"id":"建筑设计基础2","group":2},
+        {"id":"建筑环境心理学","group":5},
+        {"id":"中国建筑史1","group":4},
+        {"id":"中国建筑史2","group":7},
+        {"id":"建筑设计5、6","group":9},
+        {"id":"场地设计","group":3},
+        {"id":"全球公共艺术设计前沿（翻转）","group":2},
+        {"id":"设计工作坊（建）","group":5},
+        {"id":"城市设计概论","group":1},
+        {"id":"当代城市","group":6},
+        {"id":"建筑结构","group":11},
+        {"id":"建筑构造","group":5},
+        {"id":"建筑史","group":1},
+        {"id":"建筑设计3","group":2},
+        {"id":"遗产保护","group":8},
+        {"id":"建筑学概论","group":2},
+        {"id":"住宅原理","group":4},
+        {"id":"公建原理","group":3},
+        {"id":"计算机辅助设计","group":1},
+        {"id":"画法几何","group":1},
+        {"id":"建筑设计4","group":3},
+        {"id":"建筑设计5","group":4},
+        {"id":"建筑设计6","group":5},
+        {"id":"建筑设计7","group":6},
+        {"id":"中外建筑史","group":1},
+        {"id":"环境心理学","group":3},
+        {"id":"城市规划概论","group":4},
+        {"id":"城市规划原理","group":3},
+        {"id":"城市规划原理1","group":4},
+        {"id":"城市地理概论","group":4},
+        {"id":"高等数学","group":1},
+        {"id":"环境行为学","group":3},
+        {"id":"古建筑测绘","group":6},
+        {"id":"中国建筑史","group":1},
+        {"id":"施工图实习","group":5},
+        {"id":"毕设设计实习","group":7},
+        {"id":"毕业设计","group":8},
+        {"id":"建筑遗产保护","group":5},
+        {"id":"数字化分析与计算","group":5},
+        {"id":"数字设计软件","group":6},
+        {"id":"微积分学","group":2},
+        {"id":"线性代数","group":1},
+        {"id":"解析几何","group":2},
+        {"id":"建筑设计","group":5},
+        {"id":"建筑材料与构造","group":2},
+        {"id":"建筑结构与选型设计1","group":5},
+        {"id":"建筑结构与选型设计2","group":6},
+        {"id":"建筑设计基础","group":1},
+        {"id":"居住区规划与环境设计","group":6},
+        {"id":"建筑环境与可持续发展","group":6},
+        {"id":"⽆障碍设计原理","group":7},
+        {"id":"建筑设计初步","group":1},
+        {"id":"平面与立体构成","group":2},
+        {"id":"装置艺术与环境设施A","group":3},
+        {"id":"设计工作坊（建）","group":7},
+        {"id":"大学英语","group":1},
+        {"id":"城市规划设计2","group":4},
+        {"id":"城市规划设计3","group":5},
+        {"id":"城市规划设计4","group":6},
+        {"id":"风景园林","group":7},
+        {"id":"城市规划设计5","group":8},
+        {"id":"风景园林概论","group":8},
+        {"id":"公共建筑原理","group":8}
+
+    ],
+    "links":[
+    {
+      "source": "建筑设计1",
+      "target": "建筑设计2",
+      "value": 10
+    },
+    {
+      "source": "建筑设计1",
+      "target": "建筑结构",
+      "value": 8
+    },
+    {
+      "source": "建筑设计1",
+      "target": "建筑构造",
+      "value": 7
+    },
+    {
+      "source": "建筑设计1",
+      "target": "建筑设备",
+      "value": 6
+    },
+    {
+      "source": "建筑结构",
+      "target": "建筑设计2",
+      "value": 1
+    },
+    {
+      "source": "建筑构造",
+      "target": "建筑设计2",
+      "value": 1
+    },
+    {
+      "source": "建筑设备",
+      "target": "建筑设计2",
+      "value": 1
+    },
+    {
+      "source": "建筑史",
+      "target": "建筑设计2",
+      "value": 1
+    },
+    {
+      "source": "建筑设计2",
+      "target": "建筑设计3",
+      "value": 1
+    },
+    {
+      "source": "建筑设计2",
+      "target": "遗产保护",
+      "value": 1
+    },
+    {
+      "source": "建筑学概论",
+      "target": "建筑设计1",
+      "value": 1
+    },
+    {
+      "source": "场地设计",
+      "target": "建筑设计1",
+      "value": 1
+    },
+    {
+      "source": "住宅原理",
+      "target": "建筑设计1",
+      "value": 1
+    },
+    {
+      "source": "公建原理",
+      "target": "建筑设计1",
+      "value": 1
+    },
+    {
+      "source": "计算机辅助设计",
+      "target": "建筑设计1",
+      "value": 1
+    },
+    {
+      "source": "画法几何",
+      "target": "建筑设计1",
+      "value": 1
+    },
+    {
+      "source": "中外建筑史",
+      "target": "建筑设计1",
+      "value": 1
+    },
+    {
+      "source": "环境心理学",
+      "target": "建筑设计1",
+      "value": 1
+    },
+    {
+      "source": "城市规划概论",
+      "target": "城市经济概论",
+      "value": 1
+    },
+    {
+      "source": "城市规划原理1",
+      "target": "城市经济概论",
+      "value": 1
+    },
+    {
+      "source": "城市经济概论",
+      "target": "城市地理概论",
+      "value": 1
+    },
+    {
+      "source": "高等数学",
+      "target": "基础统计学",
+      "value": 1
+    },
+    {
+      "source": "基础统计学",
+      "target": "环境心理学",
+      "value": 1
+    },
+    {
+      "source": "基础统计学",
+      "target": "环境行为学",
+      "value": 1
+    },
+    {
+      "source": "外国建筑史1",
+      "target": "外国建筑史2",
+      "value": 1
+    },
+    {
+      "source": "外国建筑史2",
+      "target": "当代建筑设计分析2",
+      "value": 1
+    },
+    {
+      "source": "建筑设计基础1",
+      "target": "当代建筑设计分析1",
+      "value": 1
+    },
+    {
+      "source": "建筑设计基础2",
+      "target": "当代建筑设计分析1",
+      "value": 1
+    },
+    {
+      "source": "建筑学概论",
+      "target": "当代建筑设计分析1",
+      "value": 1
+    },
+    {
+      "source": "建筑设计基础1",
+      "target": "无障碍设计原理",
+      "value": 1
+    },
+    {
+      "source": "建筑设计基础2",
+      "target": "无障碍设计原理",
+      "value": 1
+    },
+    {
+      "source": "建筑设计1",
+      "target": "无障碍设计原理",
+      "value": 1
+    },
+    {
+      "source": "建筑设计2",
+      "target": "无障碍设计原理",
+      "value": 1
+    },
+    {
+      "source": "建筑设计基础1",
+      "target": "建筑设计原理",
+      "value": 1
+    },
+    {
+      "source": "建筑设计基础2",
+      "target": "建筑设计原理",
+      "value": 1
+    },
+    {
+      "source": "古建筑测绘",
+      "target": "传统建筑营造技术",
+      "value": 1
+    },
+    {
+      "source": "中国建筑史",
+      "target": "传统建筑营造技术",
+      "value": 1
+    },
+    {
+      "source": "传统建筑营造技术",
+      "target": "建筑设计5",
+      "value": 1
+    },
+    {
+      "source": "传统建筑营造技术",
+      "target": "施工图实习",
+      "value": 1
+    },
+    {
+      "source": "中国建筑史1",
+      "target": "古建筑测绘（建）",
+      "value": 1
+    },
+    {
+      "source": "外国建筑史1",
+      "target": "古建筑测绘（建）",
+      "value": 1
+    },
+    {
+      "source": "古建筑测绘（建）",
+      "target": "建筑设计5",
+      "value": 1
+    },
+    {
+      "source": "建筑设计1",
+      "target": "社会生产实践",
+      "value": 1
+    },
+    {
+      "source": "建筑设计2",
+      "target": "社会生产实践",
+      "value": 1
+    },
+    {
+      "source": "建筑设计3",
+      "target": "社会生产实践",
+      "value": 1
+    },
+    {
+      "source": "建筑设计4",
+      "target": "社会生产实践",
+      "value": 1
+    },
+    {
+      "source": "建筑设计5",
+      "target": "社会生产实践",
+      "value": 1
+    },
+    {
+      "source": "建筑设计6",
+      "target": "社会生产实践",
+      "value": 1
+    },
+    {
+      "source": "社会生产实践",
+      "target": "建筑设计7",
+      "value": 1
+    },
+    {
+      "source": "社会生产实践",
+      "target": "毕设设计实习",
+      "value": 1
+    },
+    {
+      "source": "社会生产实践",
+      "target": "毕业设计",
+      "value": 1
+    },
+    {
+      "source": "建筑设计1",
+      "target": "毕设设计实习（建）",
+      "value": 1
+    },
+    {
+      "source": "建筑设计2",
+      "target": "毕设设计实习（建）",
+      "value": 1
+    },
+    {
+      "source": "建筑设计3",
+      "target": "毕设设计实习（建）",
+      "value": 1
+    },
+    {
+      "source": "建筑设计4",
+      "target": "毕设设计实习（建）",
+      "value": 1
+    },
+    {
+      "source": "建筑设计5",
+      "target": "毕设设计实习（建）",
+      "value": 1
+    },
+    {
+      "source": "建筑设计6",
+      "target": "毕设设计实习（建）",
+      "value": 1
+    },
+    {
+      "source": "建筑设计7",
+      "target": "毕设设计实习（建）",
+      "value": 1
+    },
+    {
+      "source": "毕设设计实习（建）",
+      "target": "毕业设计",
+      "value": 1
+    },
+    {
+      "source": "建筑设计1",
+      "target": "毕业设计（论文）（建）",
+      "value": 1
+    },
+    {
+      "source": "建筑设计2",
+      "target": "毕业设计（论文）（建）",
+      "value": 1
+    },
+    {
+      "source": "建筑设计3",
+      "target": "毕业设计（论文）（建）",
+      "value": 1
+    },
+    {
+      "source": "建筑设计4",
+      "target": "毕业设计（论文）（建）",
+      "value": 1
+    },
+    {
+      "source": "建筑设计5",
+      "target": "毕业设计（论文）（建）",
+      "value": 1
+    },
+    {
+      "source": "建筑设计6",
+      "target": "毕业设计（论文）（建）",
+      "value": 1
+    },
+    {
+      "source": "建筑设计7",
+      "target": "毕业设计（论文）（建）",
+      "value": 1
+    },
+    {
+      "source": "建筑设计原理",
+      "target": "毕业设计（论文）（建）",
+      "value": 1
+    },
+    {
+      "source": "建筑遗产保护",
+      "target": "毕业设计（论文）（建）",
+      "value": 1
+    },
+    {
+      "source": "数字化分析与计算",
+      "target": "毕业设计（论文）（建）",
+      "value": 1
+    },
+    {
+      "source": "建筑设计原理",
+      "target": "建筑设计7",
+      "value": 1
+    },
+    {
+      "source": "建筑遗产保护",
+      "target": "建筑设计7",
+      "value": 1
+    },
+    {
+      "source": "数字化分析与计算",
+      "target": "建筑设计7",
+      "value": 1
+    },
+    {
+      "source": "建筑设计7",
+      "target": "毕业设计",
+      "value": 1
+    },
+    {
+      "source": "外国建筑史1",
+      "target": "外国建筑史2",
+      "value": 1
+    },
+    {
+      "source": "建筑设计基础1",
+      "target": "通识课",
+      "value": 1
+    },
+    {
+      "source": "建筑设计基础2",
+      "target": "通识课",
+      "value": 1
+    },
+    {
+      "source": "通识课",
+      "target": "建筑构造",
+      "value": 1
+    },
+    {
+      "source": "通识课",
+      "target": "数字设计软件",
+      "value": 1
+    },
+    {
+      "source": "微积分学",
+      "target": "建筑图形学",
+      "value": 1
+    },
+    {
+      "source": "线性代数",
+      "target": "建筑图形学",
+      "value": 1
+    },
+    {
+      "source": "解析几何",
+      "target": "建筑图形学",
+      "value": 1
+    },
+    {
+      "source": "建筑设计",
+      "target": "建筑设计",
+      "value": 1
+    },
+    {
+      "source": "建筑设计基础1",
+      "target": "建筑设计基础2",
+      "value": 1
+    },
+    {
+      "source": "建筑设计基础2",
+      "target": "建筑设计1",
+      "value": 1
+    },
+    {
+      "source": "建筑设计基础2",
+      "target": "建筑环境心理学",
+      "value": 1
+    },
+    {
+      "source": "建筑学概论",
+      "target": "建筑环境心理学",
+      "value": 1
+    },
+    {
+      "source": "建筑环境心理学",
+      "target": "建筑设计4",
+      "value": 1
+    },
+    {
+      "source": "建筑设计原理",
+      "target": "建筑设计5、6",
+      "value": 1
+    },
+    {
+      "source": "建筑材料与构造",
+      "target": "建筑设计5、6",
+      "value": 1
+    },
+    {
+      "source": "中国建筑史",
+      "target": "建筑设计5、6",
+      "value": 1
+    },
+    {
+      "source": "场地设计",
+      "target": "建筑设计5、6",
+      "value": 1
+    },
+    {
+      "source": "建筑结构与选型设计1",
+      "target": "建筑设计5、6",
+      "value": 1
+    },
+    {
+      "source": "建筑设计5、6",
+      "target": "建筑结构与选型设计2",
+      "value":0.5
+    },
+    {
+      "source": "建筑设计5、6",
+      "target": "建筑设备",
+      "value": 0.5
+    },
+    {
+      "source": "建筑设计基础",
+      "target": "场地设计",
+      "value": 1
+    },
+    {
+      "source": "场地设计",
+      "target": "建筑设计",
+      "value": 1
+    },
+    {
+      "source": "场地设计",
+      "target": "居住区规划与环境设计",
+      "value": 1
+    },
+    {
+      "source": "场地设计",
+      "target": "城市规划原理",
+      "value": 1
+    },
+    {
+      "source": "场地设计",
+      "target": "建筑环境与可持续发展",
+      "value": 1
+    },
+    {
+      "source": "场地设计",
+      "target": "⽆障碍设计原理",
+      "value": 1
+    },
+    {
+      "source": "建筑设计初步",
+      "target": "全球公共艺术设计前沿（翻转）",
+      "value": 1
+    },
+    {
+      "source": "平面与立体构成",
+      "target": "全球公共艺术设计前沿（翻转）",
+      "value": 1
+    },
+    {
+      "source": "全球公共艺术设计前沿（翻转）",
+      "target": "装置艺术与环境设施A",
+      "value": 1
+    },
+    {
+      "source": "建筑设计基础",
+      "target": "设计工作坊（建）",
+      "value": 1
+    },
+    {
+      "source": "建筑设计",
+      "target": "设计工作坊（建）",
+      "value": 1
+    },
+    {
+      "source": "公共建筑原理",
+      "target": "设计工作坊（建）",
+      "value": 1
+    },
+    {
+      "source": "大学英语",
+      "target": "设计工作坊（建）",
+      "value": 1
+    },
+    {
+      "source": "设计工作坊（建）",
+      "target": "毕业设计",
+      "value": 1
+    },
+    {
+      "source": "城市规划概论",
+      "target": "城市设计概论",
+      "value": 1
+    },
+    {
+      "source": "风景园林概论",
+      "target": "城市设计概论",
+      "value": 1
+    },
+    {
+      "source": "场地设计",
+      "target": "城市设计概论",
+      "value": 1
+    },
+    {
+      "source": "城市设计概论",
+      "target": "城市规划设计2",
+      "value": 1
+    },
+    {
+      "source": "城市设计概论",
+      "target": "城市规划设计3",
+      "value": 1
+    },
+    {
+      "source": "城市设计概论",
+      "target": "城市规划设计4",
+      "value": 1
+    }
+  ]
+}
