@@ -1,0 +1,14 @@
+{
+  "name": "d675c0131376ab4e",
+  "main": "d675c0131376ab4e@406.js",
+  "version": "406.0.0",
+  "homepage": "https://observablehq.com/d/d675c0131376ab4e",
+  "author": {
+    "name": "bew",
+    "url": "https://observablehq.com/@bewssss"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
